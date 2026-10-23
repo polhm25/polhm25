@@ -39,7 +39,7 @@ Mobile development, GUI design, software architecture patterns
 
 ## 📫 Let's Connect
 
-📧 **Email:** polhm2501@gmail.com  
+📧 **Email:** polhm348@gmail.com  
 💼 **Location:** Granada, Spain  
 🔗 **GitHub:** [github.com/polhm25](https://github.com/polhm25)
 
